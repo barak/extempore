@@ -74,7 +74,7 @@ Download a
 [precompiled binary](http://extempore.moso.com.au/extras/Extempore-0.6.0-win64.zip),
 unzip it and run `extempore.exe` from inside the `extempore` folder.
 
-## Get the depenencies
+## Get the dependencies
 
 You'll need
 
